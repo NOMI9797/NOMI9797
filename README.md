@@ -21,7 +21,7 @@
 - 🤖 I work on **AI agents, RAG systems and chatbots** using LangChain
 - ⚙️ I like **automation** — turning repetitive work into pipelines
 - 🌱 Currently deepening **AI agent architectures** and **production RAG**
-- 📫 Reach me at **your@email.com**
+- 📫 Reach me at **nomiahmed307@gmail.com**
 
 ---
 
